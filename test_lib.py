@@ -1,4 +1,4 @@
-import lib
+from lib import Average
 
 def test_average():
     input1 = [10, 11, 12]
